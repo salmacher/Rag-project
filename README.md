@@ -25,7 +25,6 @@ A complete Retrieval-Augmented Generation system that allows users to upload doc
 
 - Docker and Docker Compose
 - Node.js (for frontend development)
-- OpenAI API key (optional - mock mode available)
 - Python 3.8+ (for backend development)
 
 ### Installation
