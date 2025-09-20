@@ -26,6 +26,7 @@ A complete Retrieval-Augmented Generation system that allows users to upload doc
 - Docker and Docker Compose
 - Node.js (for frontend development)
 - OpenAI API key (optional - mock mode available)
+- Python 3.8+ (for backend development)
 
 ### Installation
 
@@ -38,6 +39,18 @@ A complete Retrieval-Augmented Generation system that allows users to upload doc
 2. **Environment Variables**
    
    Create a `.env` file (Check the attachments in the email)
+
+   # Create virtual environment
+   python -m venv venv
+
+   # Activate virtual environment
+   # Windows:
+    venv\Scripts\activate
+   # Linux/Mac:
+    source venv/bin/activate
+
+   # Install Python dependencies
+    pip install -r requirements.txt
 
 ### Start Backend Services
 
