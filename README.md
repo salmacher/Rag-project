@@ -61,7 +61,7 @@ docker-compose up -d
 ### Start Frontend
 
 ```bash
-cd frontend
+cd front
 npm install
 npm start
 ```
